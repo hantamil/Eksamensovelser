@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873b4b73-94fc-4870-b1f3-99b3e2dcab53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Butik4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cykel4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Film2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Producer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Raflebæger3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tal5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tekst1.java" afterDir="false" />
+    <list default="true" id="873b4b73-94fc-4870-b1f3-99b3e2dcab53" name="Changes" comment="øvelser">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tal5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tal5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +58,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698057700279</updated>
-      <workItem from="1698057701315" duration="13025000" />
+      <workItem from="1698057701315" duration="18401000" />
     </task>
+    <task id="LOCAL-00001" summary="øvelser">
+      <option name="closed" value="true" />
+      <created>1698148095248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148095248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="øvelser">
+      <option name="closed" value="true" />
+      <created>1698148758372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148758372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="øvelser" />
+    <option name="LAST_COMMIT_MESSAGE" value="øvelser" />
   </component>
 </project>

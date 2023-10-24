@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -79,7 +80,28 @@ public class Main {
 
     // TAL - ØVELSE 5
     public static void main(String[] args) {
-        Tal5 tal = new Tal5();
 
     }
+
+    // TAL - ØVELSE 6 - prøv igen, virker ikke
+    /*public static void main(String[] args) {
+        List<Integer> talListe = new ArrayList<>();
+        Tal5 tal = new Tal5();
+
+        talListe.add(5);
+        talListe.add(66);
+        talListe.add(12);
+        talListe.add(87);
+        talListe.add(66);
+        talListe.add(56);
+        talListe.add(89);
+        talListe.add(66);
+
+        int gentagelser = tal.tælTal(8);
+        System.out.println("Antal gentagelser af samme tal: " + gentagelser);
+
+        double gennemsnit = tal.gennemsnit();
+        System.out.println("Gennemsnit: " + gennemsnit);
+
+    }*/
 }
