@@ -11,6 +11,7 @@ public class Butik4 {
         return lagerliste;
     }
 
+    //metoden for at returnere den samlede pris
     public double samletLagerBeholdning(){
         double samletPris = 0;
         for (Cykel4 cykel4 : lagerliste){
