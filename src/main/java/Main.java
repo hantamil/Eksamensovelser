@@ -79,14 +79,22 @@ public class Main {
     }*/
 
     // TAL - ØVELSE 5
-    public static void main(String[] args) {
-
-    }
-
-    // TAL - ØVELSE 6 - prøv igen, virker ikke
     /*public static void main(String[] args) {
+        Tal5 tal5 = new Tal5();
+
+        tal5.lavMangeTal();
+        List<Integer> tilfældigeTal = tal5.getTilfældigeTal();
+
+        System.out.println("10 tilfældige tal mellem 1 og 5: ");
+        for (int tal : tilfældigeTal){
+            System.out.println(tal);
+        }
+    }*/
+
+    // TAL - ØVELSE 6 - prøv igen senere, virker ikke
+   /* public static void main(String[] args) {
         List<Integer> talListe = new ArrayList<>();
-        Tal5 tal = new Tal5();
+        Tal6 tal = new Tal6();
 
         talListe.add(5);
         talListe.add(66);
@@ -104,4 +112,16 @@ public class Main {
         System.out.println("Gennemsnit: " + gennemsnit);
 
     }*/
+
+    // KEYWORD - ØVELSE 7 - mangler del 3, ingen main
+    public static void main(String[] args) {
+        Keyword7 keyword = new Keyword7("Banana", "A yellow fruit");
+        Keyword7 keyword1 = new Keyword7("Schoolbus", "A vehicle that drives students to school");
+
+        Scanner input = new Scanner(System.in);
+
+
+    }
+
+    // CARD - ØVELSE 8
 }
